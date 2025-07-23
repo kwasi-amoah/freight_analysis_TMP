@@ -3,6 +3,7 @@
 ## Project Files
 - [Dashboard (.pbix)](https://drive.google.com/drive/folders/1qjOiJw4o9lkRaSCbwxcGu4peaTrW1_WB?usp=sharing)
 - [Datasets](https://drive.google.com/drive/folders/14re3G-zED98MUEl2u0LFU6BGOHBpU-rp?usp=sharing)
+- [Presentation](https://drive.google.com/drive/folders/1szXBq0HxnaUsES-k9LIpFBO2VlpRXotK?usp=drive_link)
 
 ## 📦 Project Overview
 
