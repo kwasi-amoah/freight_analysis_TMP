@@ -1,5 +1,9 @@
 # Cross-Border Freight Analysis Dashboard
 
+## Project Files
+- [Dashboard (.pbix)](https://drive.google.com/drive/folders/1qjOiJw4o9lkRaSCbwxcGu4peaTrW1_WB?usp=sharing)
+- [Datasets](https://drive.google.com/drive/folders/14re3G-zED98MUEl2u0LFU6BGOHBpU-rp?usp=sharing)
+
 ## 📦 Project Overview
 
 This project explores patterns in freight transportation across the U.S., Mexico, and Canada by analyzing publicly available DOT (Department of Transportation) datasets. The goal is to uncover insights into trade volumes, transportation modes, commodity trends, and regional inefficiencies to support data-driven logistics and policy decisions.
