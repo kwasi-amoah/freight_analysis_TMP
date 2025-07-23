@@ -104,7 +104,3 @@ Use Cases:
 - Integrate forecasting for seasonal planning
 - Include custom tooltip pages with deeper drilldowns
 
----
-
-## 📁 File Structure
-
